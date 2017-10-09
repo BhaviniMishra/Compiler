@@ -1,1 +1,2 @@
 # Compiler
+Designed a basic compiler for C language. Performs syntax check and generates assembly code for a correct code. The entire project was divided into modules. The main focus was to study the grammar for C language given in the book “The C Programming Language” by Kernighan and Ritchie, find the discrepancies in the grammar, and modify them to produce better results. The end result was to generate an assembly language code for the given C program and execute it.
